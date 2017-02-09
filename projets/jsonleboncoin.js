@@ -1,0 +1,7 @@
+prix":""
+"ville":""
+"type":""
+"pièces":""
+"surface":""
+"GES":""
+"energie":""
